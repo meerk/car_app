@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  make: MyString
+  model: MyString
+  type: MyString
+  model: MyString
+  yeat: 1
+
+two:
+  make: MyString
+  model: MyString
+  type: MyString
+  model: MyString
+  yeat: 1
